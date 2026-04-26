@@ -3,8 +3,6 @@
 
 > An interactive Agent-Based Model (ABM) simulation and analytical dashboard for exploring socioeconomic vulnerability to earthquakes, grounded in the **Wisner / Pressure and Release (PAR) Framework**.
 
-[![Streamlit App](https://earthquake-dashboard-mth4r8qvrweuutwe5nkc74.streamlit.app/)
-
 ---
 
 ## Overview
